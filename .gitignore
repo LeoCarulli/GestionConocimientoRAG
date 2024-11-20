@@ -1,0 +1,17 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+.env
+
+# Ignorar entornos virtuales
+.venv/
+env/
+myenv/
+envir/
+apienvi/
+environ/
+environment/
+
+# Ignorar todo el contenido de las carpetas "data" y "db_nivel4_desc_cap_notas"
+# data/
+db_nivel4_desc_cap_notas/

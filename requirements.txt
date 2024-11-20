@@ -1,0 +1,10 @@
+pdfplumber  # Para leer PDFs
+chromadb    # Para la base de datos de vectores
+langchain   # Integración con Ollama y gestión del RAG
+ollama      # Para generar embeddings y respuestas
+langchain_ollama  # Para integrar Ollama con Langchain
+sentence-transformers  # Para generar embeddings
+langchain_huggingface  # Para integrar Huggingface con Langchain
+langchain_chroma # Para integrar ChromaDB con Langchain
+tiktoken    # Para poder usar tokens en vez que caracteres
+streamlit   # Para la interfaz web
